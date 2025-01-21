@@ -1,0 +1,5 @@
+CREATE TABLE news_articles (
+    title TEXT,
+    description TEXT,
+    url TEXT
+);
